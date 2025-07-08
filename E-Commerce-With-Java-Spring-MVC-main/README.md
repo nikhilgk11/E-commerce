@@ -1,12 +1,12 @@
 # ShoppingCart - An amazing website [![HitCount](https://img.shields.io/badge/Maintenance%20Level-Not%20Maintained-yellow.svg)]
 
-Developer: <b>Engr Saad</b> <br>
-Email: saad@triangeltech.com<br>
-Website: https://engr-saad.com <br>
-LinkedIn: https://www.linkedin.com/in/engr-saad/<br>
-Facebook: https://www.facebook.com/Engr.Saad.2/<br>
+Developer: <b>Engr Nikhil</b> <br>
+Email: nikhilreddyagr@gmail.com.com<br>
+Website: https://engr-nik.com <br>
+LinkedIn: https://www.linkedin.com/in/engr-nik/<br>
+Facebook: https://www.facebook.com/Engr.nik.2/<br>
 Company WEB: https://triangletech.com.bd/ <br>
-WhatsApp: +8801810536303<br>
+WhatsApp: +91 8453491645<br>
 
 
 We developed an end to end **Ecommerce web Application using Spring MVC** with multiple
